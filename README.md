@@ -198,14 +198,14 @@ The repository includes screenshots demonstrating:
 <img width="1366" height="768" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/ccc58e03-78e0-454d-be12-6ef85141f141" />
 
 * Low, Moderate, and High risk outputs
-* <img width="1366" height="768" alt="Screenshot (156)" src="https://github.com/user-attachments/assets/44c53a8c-b3e2-40ff-a814-5c21a0727d8d" />
+<img width="1366" height="768" alt="Screenshot (156)" src="https://github.com/user-attachments/assets/44c53a8c-b3e2-40ff-a814-5c21a0727d8d" />
 
-* <img width="1366" height="768" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/0d0badc8-1cc7-4d62-ab28-52920436906e" />
+<img width="1366" height="768" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/0d0badc8-1cc7-4d62-ab28-52920436906e" />
 
-* <img width="1366" height="768" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/3b2e685d-5806-475c-8e39-88c083909269" />
+<img width="1366" height="768" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/3b2e685d-5806-475c-8e39-88c083909269" />
 
 * Multilingual chatbot interaction
-* <img width="1366" height="768" alt="Screenshot (157)" src="https://github.com/user-attachments/assets/b63e2d5e-648d-4f3a-975a-a00a2bd8bfaf" />
+<img width="1366" height="768" alt="Screenshot (157)" src="https://github.com/user-attachments/assets/b63e2d5e-648d-4f3a-975a-a00a2bd8bfaf" />
 
 ---
 
