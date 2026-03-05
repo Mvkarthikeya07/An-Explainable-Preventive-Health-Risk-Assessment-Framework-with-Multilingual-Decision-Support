@@ -220,6 +220,12 @@ In association with Datamind, UAE.
 
 The hackathon emphasized SDG-aligned problem solving, real-world societal impact, and time-constrained engineering design.
 
+🔗 LinkedIn Post
+
+The hackathon recognition and certificate can be viewed here:
+
+https://www.linkedin.com/posts/m-v-karthikeya-b26a2131b_hackathon-innoclash-sdg-activity-7425411643255439360-ebbp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFEhlw4BT-6V0rnLIZSzBIoK7YvV2QlbHLc
+
 ---
 
 ## 🚀 Future Enhancements
