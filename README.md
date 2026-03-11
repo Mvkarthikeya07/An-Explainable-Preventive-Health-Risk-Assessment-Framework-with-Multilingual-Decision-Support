@@ -228,6 +228,46 @@ https://www.linkedin.com/posts/m-v-karthikeya-b26a2131b_hackathon-innoclash-sdg-
 
 ---
 
+📄 Research Publication
+
+This project has been formally published as a peer-reviewed research article in the Indian Journal of Computer Science and Technology (INDJCST).
+
+Paper Title
+
+An Explainable Deterministic Framework for Preventive Health Risk Stratification with Multilingual Decision Support for Low-Resource Environments
+
+Author
+M. V. Karthikeya
+
+Journal
+Indian Journal of Computer Science and Technology (INDJCST)
+
+Volume / Issue
+Volume 5, Issue 1 (January–April 2026)
+
+DOI
+https://www.doi.org/10.59256/indjcst.20260501023
+
+Research Contribution
+
+The published study presents an explainable and deterministic framework for preventive health risk stratification, designed specifically for low-resource and multilingual environments. The research emphasizes transparent decision-support mechanisms, accessibility-oriented system design, and responsible AI principles in healthcare technologies.
+
+Key contributions of the research include:
+
+Development of a rule-based preventive health risk stratification engine
+
+Design of an explainable decision-support framework for non-medical users
+
+Integration of multilingual accessibility for inclusive healthcare awareness
+
+Implementation of a deterministic health assistant chatbot for preventive guidance
+
+Emphasis on transparent and interpretable AI methodologies in healthcare systems
+
+The research highlights the importance of explainability, accessibility, and safety in AI-driven healthcare technologies, particularly for resource-constrained and linguistically diverse populations.
+
+---
+
 ## 🚀 Future Enhancements
 
 * Integration of machine learning models for adaptive risk prediction
