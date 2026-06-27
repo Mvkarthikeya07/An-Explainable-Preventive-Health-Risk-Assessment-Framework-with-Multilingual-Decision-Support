@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🩺 Explainable Preventive Health Risk Assessment</h1>
+<h1>🩺 Explainable Preventive Health Risk Assessmen</h1>
 <h3>A Multilingual, Voice-Assisted Decision Support Framework for Low-Resource Environments</h3>
 
 <p>
